@@ -8,11 +8,9 @@ I'm Pavan Kumar
 
 📫 How to reach me: 
 
-    Email: pavankumarjogi2001@gmail.com
+   📩 Email:pavankumarjogi2001@gmail.com
     
-    Location: Bantwal, Mangalore-574265
-    
-    LinkedIn: linkedin.com/in/pavanvagga
+   🔗 LinkedIn: linkedin.com/in/pavanvagga
     
 ⚡ Fun fact: I enjoy exploring new technologies and always strive to keep myself updated with the latest trends in software development.
 
