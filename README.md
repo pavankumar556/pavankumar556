@@ -10,7 +10,7 @@ I'm Pavan Kumar
 
    📩 Email:pavankumarjogi2001@gmail.com
     
-   🔗 LinkedIn: linkedin.com/in/pavanvagga
+   🔗 LinkedIn:linkedin.com/in/pavanvagga
     
 ⚡ Fun fact: I enjoy exploring new technologies and always strive to keep myself updated with the latest trends in software development.
 
