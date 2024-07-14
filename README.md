@@ -2,7 +2,7 @@ Hi there 👋
  
 I'm Pavan Kumar
 
-🔭 I’m currently working on Deep Learning Algorithm
+🔭 I’m currently working on Deep Learning Algorithms
 
 🌱 I’m currently learning AWS and DevOps courses
     
